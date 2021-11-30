@@ -1,8 +1,11 @@
 # RoboChat
 
 This is a simple ChatBot application using HTML, CSS, JavaScript.
+I have preprogrammed the replies that the Robo will say to a certain set of dialogues that the user will us.
 
-![image](https://user-images.githubusercontent.com/78068259/143995857-aec9293d-414c-40aa-8296-ee20d24bb4b2.png)
+
+![image](https://user-images.githubusercontent.com/78068259/143996230-b715a17a-b438-473f-b42f-975a535ea537.png)
+
 
 
 
